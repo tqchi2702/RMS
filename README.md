@@ -1,4 +1,4 @@
-# RMS
+# RESTAURANT MANAGEMENT SYSTEM
 
 ## Feartures
 User Authentication: Secure login for customers, managers, and staff.
